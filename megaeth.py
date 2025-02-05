@@ -31,3 +31,5 @@ asyncio.run(main())
 print()
 
 print(f"Кошельки которые прошли {result}")
+
+print(f"Количество прошедших кошей {len(result)}")
